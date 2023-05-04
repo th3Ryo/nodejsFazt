@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2"
+  },
+  "name": "nodefazt",
+  "version": "1.0.0",
+  "description": "un curso de fazt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index4.js",
+    "desarollo": "node index4.js"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "fazt",
+  "license": "MIT"
+}
